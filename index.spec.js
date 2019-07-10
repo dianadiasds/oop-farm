@@ -1,4 +1,5 @@
 const { Farm } = require('./index')
+const { Cow, Horse } = require('./animals')
 const { Wheat, Sugarcane } = require('./crops')
 
 test('A new Farm can be created', () => {
