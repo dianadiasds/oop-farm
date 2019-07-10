@@ -2,3 +2,4 @@
 .gitignore
 .idea/
 images/.DS_Store
+node_modules/

@@ -1,12 +1,23 @@
 {
   "name": "oop-farm",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "jest"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dianadiasds/oop-farm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dianadiasds/oop-farm/issues"
+  },
+  "homepage": "https://github.com/dianadiasds/oop-farm#readme",
+  "description": "",
+  "dependencies": {
+    "jest": "^24.8.0"
+  }
 }
